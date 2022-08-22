@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{C192A7D4-4D46-3375-C9EF-7897167633DA}",
+	"EngineAssociation": "{D6F98211-4064-10EA-8C11-3EBB468C16E7}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -157,6 +157,10 @@
 		},
 		{
 			"Name": "LiveLinkXR",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlRig",
 			"Enabled": true
 		}
 	]
